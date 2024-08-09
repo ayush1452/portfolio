@@ -23,7 +23,7 @@ const config = {
     fontFamily: {
       primary: "var(--font-jetbrainsMono)",
     },
-    extend: {
+    extend: { 
       colors: {
         primary: "#1c1c22",
         accent: {
@@ -31,7 +31,7 @@ const config = {
           hover: "#00e187",
         },
       },
-
+      
       keyframes: {
         "accordion-down": {
           from: { height: "0" },
